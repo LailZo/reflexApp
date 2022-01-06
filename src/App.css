@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#home-background {
+  background-image: url(https://wallpapertag.com/wallpaper/full/c/7/3/564392-most-popular-fantasy-nature-wallpaper-1920x1080.jpg);
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
